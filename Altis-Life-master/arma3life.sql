@@ -13,7 +13,7 @@ SET time_zone = "+00:00";
 --
 CREATE DATABASE IF NOT EXISTS `arma3life` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
 USE `arma3life`;
-
+ijpojpopopper r rfppofo fpo 
 DELIMITER $$
 --
 -- Procedures
